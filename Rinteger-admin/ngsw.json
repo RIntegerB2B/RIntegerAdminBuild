@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/admin/index.html",
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/admin/favicon.ico",
-        "/admin/index.html",
-        "/admin/main.2d1ca1cb9da8c6304067.js",
-        "/admin/polyfills.7a0e6866a34e280f48e7.js",
-        "/admin/runtime.a66f828dca56eeb90e02.js",
-        "/admin/styles.0cfb5c15a6a910516034.css"
+        "/favicon.ico",
+        "/index.html",
+        "/main.e18d4c5611819e8e97a2.js",
+        "/polyfills.7a0e6866a34e280f48e7.js",
+        "/runtime.a66f828dca56eeb90e02.js",
+        "/styles.0cfb5c15a6a910516034.css"
       ],
       "patterns": []
     },
@@ -21,40 +21,40 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/admin/assets/icons/icon-128x128.png",
-        "/admin/assets/icons/icon-144x144.png",
-        "/admin/assets/icons/icon-152x152.png",
-        "/admin/assets/icons/icon-192x192.png",
-        "/admin/assets/icons/icon-384x384.png",
-        "/admin/assets/icons/icon-512x512.png",
-        "/admin/assets/icons/icon-72x72.png",
-        "/admin/assets/icons/icon-96x96.png",
-        "/admin/assets/styles/angularStyle.css",
-        "/admin/assets/styles/bootstrapOverride.css",
-        "/admin/assets/styles/commonStyle.css"
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/styles/angularStyle.css",
+        "/assets/styles/bootstrapOverride.css",
+        "/assets/styles/commonStyle.css"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/admin/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/admin/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/admin/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/admin/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/admin/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/admin/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/admin/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/admin/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/admin/assets/styles/angularStyle.css": "71b4479f3f278ca38a7a4c7b3cfcf92a1685506c",
-    "/admin/assets/styles/bootstrapOverride.css": "f2db8e51c1dd9bfb29d81173d349f8178b210084",
-    "/admin/assets/styles/commonStyle.css": "e0639ff2af85fe2f15e1494c2cebd29ea90a2987",
-    "/admin/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/admin/index.html": "3cef0a4542e441e12a4f6e37c2b652ac9ab7bf1c",
-    "/admin/main.2d1ca1cb9da8c6304067.js": "381c3c21ec1ecfb12c9ea91c8f1199a357712b5c",
-    "/admin/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
-    "/admin/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/admin/styles.0cfb5c15a6a910516034.css": "e6c92e064a1c3534ef52da00b3da205a0f91da55"
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/styles/angularStyle.css": "71b4479f3f278ca38a7a4c7b3cfcf92a1685506c",
+    "/assets/styles/bootstrapOverride.css": "f2db8e51c1dd9bfb29d81173d349f8178b210084",
+    "/assets/styles/commonStyle.css": "e0639ff2af85fe2f15e1494c2cebd29ea90a2987",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "c1126ea357f6d68aa956c66f27f166e00494a2fc",
+    "/main.e18d4c5611819e8e97a2.js": "a9fffe647294ee17378d6a3571aa21ebc478bcdd",
+    "/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
+    "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "/styles.0cfb5c15a6a910516034.css": "e6c92e064a1c3534ef52da00b3da205a0f91da55"
   },
   "navigationUrls": [
     {
